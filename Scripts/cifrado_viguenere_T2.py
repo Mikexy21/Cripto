@@ -11,6 +11,7 @@ def encriptar(mensaje, clave):
         if y.islower():
             y = y.upper()
         key_arr.append(alf.index(y))
+
         
     for x in mensaje:
         if x.islower():
