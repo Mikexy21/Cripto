@@ -1,5 +1,15 @@
 # Proyecto final - Cifrado simétrico AES 
-
+'''
+Realizado por: 
+- Aguilar Ramos Enrique Alejandro
+- Armenta Chora Luis Fabian
+- Caballero Romero Ismael
+- Gómez Ignacio Tania Jocelyn
+- Ramírez Pérez Daniela Itzel
+- Ruíz Sánchez Miguel Ángel
+- Serapio Hernández Alexis Arturo
+- Sierra Ruiz Nayeli Selene 
+'''
 
 # ==================== TABLAS AES ====================
 s_box = [
